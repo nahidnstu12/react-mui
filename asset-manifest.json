@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nahidnstu12/react-mui/static/css/main.4d0cbcb3.chunk.css",
+    "main.js": "/nahidnstu12/react-mui/static/js/main.7da5a293.chunk.js",
+    "main.js.map": "/nahidnstu12/react-mui/static/js/main.7da5a293.chunk.js.map",
+    "runtime-main.js": "/nahidnstu12/react-mui/static/js/runtime-main.328cdfeb.js",
+    "runtime-main.js.map": "/nahidnstu12/react-mui/static/js/runtime-main.328cdfeb.js.map",
+    "static/js/2.38746d08.chunk.js": "/nahidnstu12/react-mui/static/js/2.38746d08.chunk.js",
+    "static/js/2.38746d08.chunk.js.map": "/nahidnstu12/react-mui/static/js/2.38746d08.chunk.js.map",
+    "index.html": "/nahidnstu12/react-mui/index.html",
+    "precache-manifest.3e6eeccdd3e935b69a28dba1a8e69a5c.js": "/nahidnstu12/react-mui/precache-manifest.3e6eeccdd3e935b69a28dba1a8e69a5c.js",
+    "service-worker.js": "/nahidnstu12/react-mui/service-worker.js",
+    "static/css/main.4d0cbcb3.chunk.css.map": "/nahidnstu12/react-mui/static/css/main.4d0cbcb3.chunk.css.map",
+    "static/js/2.38746d08.chunk.js.LICENSE.txt": "/nahidnstu12/react-mui/static/js/2.38746d08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.328cdfeb.js",
+    "static/js/2.38746d08.chunk.js",
+    "static/css/main.4d0cbcb3.chunk.css",
+    "static/js/main.7da5a293.chunk.js"
+  ]
+}
