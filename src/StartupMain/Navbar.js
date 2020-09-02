@@ -13,10 +13,12 @@ const useStyles = makeStyles((theme) => ({
     objectFit: 'contain',
     margin:'0 16px',
     marginLeft: theme.spacing(8),
+    cursor:"pointer"
   },
   title: {
     fontWeight:'600',
     display: 'none',
+    cursor:"pointer",
     [theme.breakpoints.up('sm')]: {
       display: 'block',
     },
@@ -77,26 +79,18 @@ const useStyles = makeStyles((theme) => ({
 
 export default function Navbar() {
   const classes = useStyles();
-  const [anchorEl, setAnchorEl] = React.useState(null);
   const [mobileMoreAnchorEl, setMobileMoreAnchorEl] = React.useState(null);
 
-  const isMenuOpen = Boolean(anchorEl);
   const isMobileMenuOpen = Boolean(mobileMoreAnchorEl);
 
   const handleMobileMenuClose = () => {
     setMobileMoreAnchorEl(null);
   };
 
-  const handleMenuClose = () => {
-    setAnchorEl(null);
-    handleMobileMenuClose();
-  };
 
   const handleMobileMenuOpen = (event) => {
     setMobileMoreAnchorEl(event.currentTarget);
   };
-
-  const menuId = 'primary-search-account-menu';
 
   const mobileMenuId = 'primary-search-account-menu-mobile';
   const renderMobileMenu = (
@@ -122,7 +116,7 @@ export default function Navbar() {
     <div className={classes.grow}>
       <AppBar position="static" style={{ background: '#ffffff',color:'#333' }}>
         <Toolbar>
-          <img className={classes.logo} src="img/icon.png" alt="image icon"></img>
+          <img className={classes.logo} src="./img/icon.png" alt="text" />
           <Typography className={classes.title} variant="h6" noWrap>
             Start Up
           </Typography>

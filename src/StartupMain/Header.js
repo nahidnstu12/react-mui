@@ -3,7 +3,6 @@ import { Grid, Typography } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
 import DoubleArrowIcon from '@material-ui/icons/DoubleArrow';
 import DragHandleIcon from '@material-ui/icons/DragHandle';
-// import LinearScaleIcon from '@material-ui/icons/LinearScale';
 
 const useStyles = makeStyles(theme => ({
     root: {
@@ -11,7 +10,7 @@ const useStyles = makeStyles(theme => ({
         fontFamily: `'Raleway', sans-serif`,
     },
     image: {
-        backgroundImage: `linear-gradient(rgba(138,138,138,.6),rgba(138,138,138,.9)),url("/img/header-bg.jpg")`,
+        backgroundImage: `linear-gradient(rgba(138,138,138,.6),rgba(138,138,138,.9)),url("./img/header-bg.jpg")`,
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'cover',
         width: '100%',
@@ -38,7 +37,8 @@ const useStyles = makeStyles(theme => ({
     downIcon: {
         color: '#4615b2',
         marginTop: '35px',
-        transform: 'rotate(90deg)'
+        transform: 'rotate(90deg)',
+        cursor:"pointer"
     }
 
 
