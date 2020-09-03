@@ -2,7 +2,6 @@ import React from 'react';
 import {Grid, Typography} from '@material-ui/core';
 import OfferItem from './OfferItem';
 
-
 function Offer({feature}) {
     return (
         <Grid container justify="center" style={{ marginTop:"5%"}}>
@@ -14,7 +13,7 @@ function Offer({feature}) {
             <Grid container>
                 {feature.map(item =>
                 <Grid xs={12} sm={4}> 
-                <OfferItem title={item.title} img={item.image} descript={item.description}/> 
+                <OfferItem key={item.title} title={item.title} img={item.image} descript={item.description}/> 
                 </Grid>)}
             </Grid>
         </Grid>

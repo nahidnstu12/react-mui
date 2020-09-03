@@ -9,21 +9,21 @@ export const offerings = [
     },
     {
         title:'RESPONSIVE & MULTIPURPOSE',
-        image:'./img/desktop.png',
+        image:'./img/1.png',
         description:'Proin in magna a ipsum viverra scelerisq enec turp, Nunc vestibulum fringilla accumsan ornare quis.',
         feature:true,
         caption:'Desktops, Tablets & Phones'
     },
     {
         title:'EASY CUSTOMIZATION',
-        image:'./img/system.png',
+        image:'./img/2.png',
         description:'Proin in magna a ipsum viverra scelerisq enec turp, Nunc vestibulum fringilla accumsan ornare quis.',
         feature:true,
         caption:'Shortcodes, Typography & Different Layouts'
     },
     {
         title:'AWESOME FRIENDLY SUPPORT',
-        image:'./img/3.png',
+        image:'./img/31.png',
         description:'Proin in magna a ipsum viverra scelerisq enec turp, Nunc vestibulum fringilla accumsan ornare quis.',
         feature:false,
         offer:true,
