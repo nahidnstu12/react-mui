@@ -96,37 +96,45 @@ export const sampleWorks =[
         love:'123',
         star:'5.7k',
         description:'Sample work powered by wordpress.This is successfully working over production.'
-    }
+    },
+    {
+        title:'CSTEAuto Powered By Wordpress',
+        img:'./img/10.png',
+        love:'123',
+        star:'2.7k',
+        description:'Sample work powered by wordpress.This is successfully working over production.'
+    },
+
 ];
 
-const teammates =[
+export const teammates =[
     {
         name:'Asif Mahmud',
         position:"CEO & Developer",
         gmail:"asif@gmail.com",
         phone:"+012312342",
-        image:"./img/asif.png"
+        img:"./img/asif.png"
     },
     {
-        name:'Nahid Aslam',
+        name:'Nahid Islam',
         position:"IT Specialist",
         gmail:"nahid@gmail.com",
         phone:"+012312342",
-        image:"./img/nahid.png"
+        img:"./img/nahid.png"
     },
     {
-        name:'Asif Mahmud',
+        name:'Forhad Khan',
         position:"UI Developer",
         gmail:"forhad@gmail.com",
         phone:"+012312342",
-        image:"./img/forhad.png"
+        img:"./img/forhad.png"
     },
     {
         name:'Anik Mahmud',
         position:"Sales Manager",
         gmail:"anik@gmail.com",
         phone:"+012312342",
-        image:"./img/anik.png"
+        img:"./img/anik.jpg"
     }
 ];
 
