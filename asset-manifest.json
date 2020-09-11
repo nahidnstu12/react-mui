@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/startup-mui/static/css/main.ccd75771.chunk.css",
-    "main.js": "/startup-mui/static/js/main.fbc954dc.chunk.js",
-    "main.js.map": "/startup-mui/static/js/main.fbc954dc.chunk.js.map",
+    "main.js": "/startup-mui/static/js/main.79d7e589.chunk.js",
+    "main.js.map": "/startup-mui/static/js/main.79d7e589.chunk.js.map",
     "runtime-main.js": "/startup-mui/static/js/runtime-main.9298e06c.js",
     "runtime-main.js.map": "/startup-mui/static/js/runtime-main.9298e06c.js.map",
     "static/css/2.11829350.chunk.css": "/startup-mui/static/css/2.11829350.chunk.css",
     "static/js/2.c52b6922.chunk.js": "/startup-mui/static/js/2.c52b6922.chunk.js",
     "static/js/2.c52b6922.chunk.js.map": "/startup-mui/static/js/2.c52b6922.chunk.js.map",
     "index.html": "/startup-mui/index.html",
-    "precache-manifest.44c428ff06232ee61c1488fa2a40bd3a.js": "/startup-mui/precache-manifest.44c428ff06232ee61c1488fa2a40bd3a.js",
+    "precache-manifest.5bcda43ee60197c417cd927767497e57.js": "/startup-mui/precache-manifest.5bcda43ee60197c417cd927767497e57.js",
     "service-worker.js": "/startup-mui/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/startup-mui/static/css/2.11829350.chunk.css.map",
     "static/css/main.ccd75771.chunk.css.map": "/startup-mui/static/css/main.ccd75771.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.11829350.chunk.css",
     "static/js/2.c52b6922.chunk.js",
     "static/css/main.ccd75771.chunk.css",
-    "static/js/main.fbc954dc.chunk.js"
+    "static/js/main.79d7e589.chunk.js"
   ]
 }
