@@ -113,21 +113,21 @@ export const teammates =[
         position:"CEO & Developer",
         gmail:"asif@gmail.com",
         phone:"+012312342",
-        img:"./img/asif.png"
+        img:"./img/asif.PNG"
     },
     {
         name:'Nahid Islam',
         position:"IT Specialist",
         gmail:"nahid@gmail.com",
         phone:"+012312342",
-        img:"./img/nahid.png"
+        img:"./img/nahid.PNG"
     },
     {
         name:'Forhad Khan',
         position:"UI Developer",
         gmail:"forhad@gmail.com",
         phone:"+012312342",
-        img:"./img/forhad.png"
+        img:"./img/forhad.PNG"
     },
     {
         name:'Anik Mahmud',
